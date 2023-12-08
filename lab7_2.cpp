@@ -25,5 +25,4 @@ int main() {
     cout << name <<": ";
     getline(cin,quotes);
     cout << "Fahsai: 555+ see you "<< days << ". Bye Bye " << "\\" << "(^ ^)/";
-
 }
